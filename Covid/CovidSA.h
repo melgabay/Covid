@@ -1,5 +1,6 @@
 ﻿#pragma once
 #include "Covid19.h"
+//hello
 
 class CovidSA : virtual public Covid19
 {
